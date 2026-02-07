@@ -36,9 +36,9 @@ artifacts/
 # Publish output
 **/publish/
 
-# Inno Setup
+# Inno Setup (el .exe se genera con build.ps1)
 installer/Output/
-installer/*.exe
+installer/installer/
 
 # Misc
 *.log
