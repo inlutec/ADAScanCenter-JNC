@@ -3,6 +3,10 @@
 **Versión:** 1.0.0  
 **Última actualización:** Febrero 2026
 
+### Descarga
+
+- **[ADAScanCenter_Setup.exe v1.0](https://nube.kiracloud.es/s/GRmNWqWMx5ze6Kx)** — Instalador para Windows (64-bit)
+
 ---
 
 ## Índice
